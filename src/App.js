@@ -1,13 +1,13 @@
 import PriceCard from "./pcard";
 import "./App.css";
 
-import React from "react";
-import MuiAlert from "@material-ui/lab/Alert";
-  
-function Alert(props) {
-  return <MuiAlert elevation={6} 
-                   variant="filled" {...props} />;
-}
+// import React from "react";
+// // import MuiAlert from "@material-ui/lab/Alert";
+// //   
+// // // function Alert(props) {
+// // //   return <MuiAlert elevation={6} 
+// // //                    variant="filled" {...props} />;
+// // // }
 
 function App() {
   const pricingData = [
@@ -135,7 +135,7 @@ function App() {
   return (
 
         <div>
-          <Alert severity="success"><a href = 'https://github.com/Jagadeesh-Kumar-Initial-Is-S' target = '_blank' >Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</a></Alert>
+          <a href = 'https://github.com/Jagadeesh-Kumar-Initial-Is-S' target = '_blank' >Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</a>
     
     <section className="pricing py-5">
       <div className="container">
