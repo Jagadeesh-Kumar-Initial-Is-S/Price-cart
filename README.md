@@ -4,6 +4,12 @@ https://github.com/Jagadeesh-Kumar-Initial-Is-S/Price-cart
 
 https://animated-brioche-3dd612.netlify.app/
 
+# Task - Price cart 
+
+bootstrap(https://startbootstrap.com/snippets/pricing-table)
+
+<hr />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

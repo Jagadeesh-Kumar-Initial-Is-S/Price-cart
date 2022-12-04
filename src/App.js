@@ -1,13 +1,6 @@
 import PriceCard from "./pcard";
 import "./App.css";
 
-// import React from "react";
-// // import MuiAlert from "@material-ui/lab/Alert";
-// //   
-// // // function Alert(props) {
-// // //   return <MuiAlert elevation={6} 
-// // //                    variant="filled" {...props} />;
-// // // }
 
 function App() {
   const pricingData = [
