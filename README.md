@@ -2,7 +2,7 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 https://github.com/Jagadeesh-Kumar-Initial-Is-S/Price-cart
 
-https://animated-brioche-3dd612.netlify.app/
+https://gorgeous-seahorse-1189d6.netlify.app/
 
 # Task - Price cart 
 
